@@ -99,8 +99,8 @@ To build and run the application, follow these steps:
 
 1. Clone the repository.
 2. Configure the MySQL database connection in the `application.properties` file.
-3. Build the project using Gradle.
-4. Run the application using the generated JAR file or Gradle's `bootRun` task.
+3. Build the project using Maven.
+4. Run the application using the generated JAR file.
 
 ## Project Structure
 
